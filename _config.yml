@@ -24,7 +24,7 @@ description              : "나는 이런 사람입니다."
 url                      : # the base hostname & protocol for your site e.g. "https://bokyungkim08.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "BokyungKim08/BokyungKim08.github.io"
-teaser                   : "/assets/images/mylogo.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/mylogo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
