@@ -22,10 +22,10 @@ toc_label: "페이지 주요 목차"
   else
   printf("당신의 사주는 그럭저럭입니다.\n");
   return 0;
-  }~~~
+  }
+  ~~~
   
 
----
 ### 02. 3개의 터널 통과
   ![tunnel](/assets/images/if2.jpg)
   ~~~c
@@ -46,7 +46,7 @@ toc_label: "페이지 주요 목차"
 }
 ~~~
 
----
+
 ### 03. 이 달은 며칠까지 있을까?
 ![calender](/assets/images/if3.jpg)
 ~~~c
@@ -67,5 +67,5 @@ int main(void)
      printf("28일");
   
   return 0;
-}~~~
-  
+}
+~~~
