@@ -24,8 +24,9 @@ toc_label: "페이지 주요 목차"
   return 0;
   }~~~
   
-  
-  ### 02. 3개의 터널 통과
+
+---
+### 02. 3개의 터널 통과
   ![tunnel](/assets/images/if2.jpg)
   ~~~c
   #include <stdio.h>
@@ -45,9 +46,9 @@ toc_label: "페이지 주요 목차"
 }
 ~~~
 
-
+---
 ### 03. 이 달은 며칠까지 있을까?
-![calender](/assets/images/if.3jpg)
+![calender](/assets/images/if3.jpg)
 ~~~c
 #include <stdio.h>
 int main(void) 
