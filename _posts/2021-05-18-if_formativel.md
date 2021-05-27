@@ -8,7 +8,7 @@ toc_label: "페이지 주요 목차"
 
 
 ### 01. 사주보기
-![saju](/assets/images/if1.jpg)
+![saju](/assets/images/saju.jpg)
 ~~~c
 #include <stdio.h>
  int main(void)
@@ -27,7 +27,7 @@ toc_label: "페이지 주요 목차"
   
 
 ### 02. 3개의 터널 통과
-  ![tunnel](/assets/images/if2.jpg)
+  ![tunnel](/assets/images/tun.jpg)
   ~~~c
   #include <stdio.h>
   int main(void)
@@ -48,7 +48,7 @@ toc_label: "페이지 주요 목차"
 
 
 ### 03. 이 달은 며칠까지 있을까?
-![calender](/assets/images/if3.jpg)
+![calender](/assets/images/mon.jpg)
 ~~~c
 #include <stdio.h>
 int main(void) 
