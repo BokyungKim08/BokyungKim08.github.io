@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "조건문"
+title: "수행평가 정리"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
@@ -69,3 +69,27 @@ int main(void)
   return 0;
 }
 ~~~
+
+
+### 04.
+~~~c
+#include <stdio.h>
+ 
+int main(void) {
+ int hour, min;
+ printf("시간과 분을 입력하세요: ");
+ scanf("%d%d", &hour, &min);
+ printf("입력한 시간의 30분 전의 시간은 ");
+ if(min>=30)
+  printf("%d시%d분", hour, min-30);
+ else
+ {
+   if(hour==00)
+    printf("%d시%d분", 23, min+30);
+   else
+    printf("%d시%d분", hour-1, min+30);
+ }
+ return 0;
+}
+~~~
+
