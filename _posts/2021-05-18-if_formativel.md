@@ -71,7 +71,7 @@ int main(void)
 ~~~
 
 
-### 04.
+### 04. 30분 전
 ~~~c
 #include <stdio.h>
  
