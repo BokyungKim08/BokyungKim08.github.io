@@ -1,15 +1,5 @@
 ---
-title: "형성평가"
-layout: categories
-permalink: /categoreis/
-author_profile: true
----
-title: "IT"
-layout: categories
-permalink: /categoreis/
-author_profile: true
----
-title: "Daily"
+title: "문법 개념"
 layout: categories
 permalink: /categoreis/
 author_profile: true
