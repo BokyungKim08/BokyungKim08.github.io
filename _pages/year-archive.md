@@ -1,5 +1,5 @@
 ---
-title: "연도별 포스팅"
+title: "Year"
 permalink: /posts/
 layout: posts
 author_profile: true
